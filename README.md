@@ -1,1 +1,1 @@
-# Hotel-Management-System-with-OPPs-concept
+# Hotel-Management-System-with-OOPs-concept
