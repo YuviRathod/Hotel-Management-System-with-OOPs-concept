@@ -383,10 +383,10 @@ string getStringInput() {
 }
 
 int main() {
-    Hotel hotel("BVB Hotel Management System");
+    Hotel hotel("Hotel Management System");
     while (true) {
         cout <<"-------------------------------------" <<endl;
-        cout <<"|    BVB Hotel Management System    |" <<endl;
+        cout <<"|    Hotel Management System        |" <<endl;
         cout <<"-------------------------------------" <<endl;
         //cout << "\nBVB Hotel Management System" << endl;
         cout << "1. Add Room" << endl;
